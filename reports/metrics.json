@@ -1,7 +1,7 @@
 {
   "acuracia": 0.75,
   "dataset_id": "chamados-v1",
-  "model_id": "chamados-r1",
+  "model_id": "chamados-r2",
   "por_classe": {
     "comum": {
       "recall": 1.0,

@@ -10,11 +10,11 @@
   "dataset_id": "chamados-v1",
   "dataset_sha256": "bc3fd86a3a5f598841a58839a9726d901fa7e8361ffe79c5b43873ad8a1328ac",
   "descritor": "models/model.json.dvc",
-  "git_commit": "6c6790338ca64ab5e7e58e7567cfb82c5e90b68c",
-  "model_id": "chamados-r1",
+  "git_commit": "38d8e29476c5d65c1aa505fe9905d9aa492c871d",
+  "model_id": "chamados-r2",
   "parametros": {
     "tokenizador": "primeira_palavra_minuscula"
   },
-  "run_id": "0a30414a-4772-4ecb-80f2-f5495c2def0c",
+  "run_id": "97be2f2f-ffea-4877-b1b1-3d136a9e302d",
   "split_sha256": "2ef820171c1a4625fe216e6da67c7c8dcf9d97a08288c0239cd23f1a6961d981"
 }
